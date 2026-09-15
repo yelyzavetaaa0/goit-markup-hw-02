@@ -20,6 +20,9 @@
   letter-spacing: 0.02em;
   text-align: center;
 }
+.team-name {
+  text-align: center;
+}
 .team-type {
   font-weight: 400;
   text-align: center;
